@@ -1,0 +1,557 @@
+Tarek  Abdelzaher:
+CS 424 - Real-Time Systems
+CS 598 TAR - Social Sensing
+
+Sarita V. Adve:
+CS 433 (CSE 422) - Computer System Organization
+CS 534 - Adv Topics in Comp Arch
+CS 598 KT9 (CS 598 SVA) - App-Cust Heterogeneous Systems
+ECE 499 SAO - Senior Thesis
+
+Vikram Adve:
+CS 426 - Compiler Construction
+CS 526 - Advanced Compiler Construction
+CS 591 ACT - Advanced Compiler Technology
+CS 597 VSA - Individual Study
+CS 598 LCE - Lang & Compilers for Edge Comp
+
+Ram Alagappan:
+CS 591 SN - Systems and Networking Seminar
+CS 598 CDS (CS 598 RAP) - Cloud Stor Sys: Theory&Practic
+
+Nancy M. Amato:
+CS 199 STR - CS Stars Seminar
+CS 491 PD (CS 491 PDO) - Professional Development
+CS 591 CS (CS 591 CSO, CS 591 PHD) - PHD Orientation Seminar
+
+Brian P. Bailey:
+CS 465 - User Interface Design Studio
+CS 498 MD (CS 498 MID) - Mobile Interactive Design
+CS 565 - Human-Computer Interaction
+CS 591 PH2 (CS 591 PHD, CS 591 TA) - Advanced Seminar
+
+Arindam  Banerjee:
+CS 412 A3 (CS 412 A4, CS 412 P3, CS 412 P4, CS 412 PG, CS 412 PU) - Introduction to Data Mining
+CS 598 BAN (CS 598 BOF) - Deep Gen & Dyn Models
+
+Adam Bates:
+CS 423 (CSE 423) - Operating Systems Design
+CS 461 (ECE 422) - Computer Security I
+CS 563 (ECE 524) - Advanced Computer Security
+CS 598 OSS - Operating System Security
+
+Matthew Caesar:
+CS 437 CHI (CS 437 DSO, CS 437 IOT, CS 437 IT3, CS 437 IT4) - Topics in Internet of Things
+CS 497 - CS Team Project
+CS 498 ISE (CS 498 IT3, CS 498 IT4, CS 498 ITC, CS 498 ITF, CS 498 ITO) - Internet of Things
+ECE 435 (CS 436) - Computer Networking Laboratory
+
+Timothy Moon-Yew Chan:
+CS 374 AL1 (CS 374 AYA, CS 374 AYB, CS 374 AYC, CS 374 AYD, CS 374 AYE, CS 374 AYF, CS 374 AYG, CS 374 AYH, CS 374 AYJ, CS 374 AYK, ECE 374 AL1, ECE 374 AYA, ECE 374 AYB, ECE 374 AYC, ECE 374 AYD, ECE 374 AYE, ECE 374 AYF, ECE 374 AYG, ECE 374 AYH, ECE 374 AYJ, ECE 374 AYK) - Intro to Algs & Models of Comp
+CS 473 (CSE 414, MATH 473) - Algorithms
+CS 498 DL1 (CS 498 TC3, CS 498 TC4) - Computational Geometry
+CS 574 - Randomized Algorithms
+CS 598 TMC - Topics in Comp. Geometry
+
+Eshwar  Chandrasekharan:
+CS 498 AS3 (CS 498 ASG, CS 498 ASU, CS 498 SCG, CS 498 SCU) - Social Computing
+CS 598 ECH (CS 598 EWS, CS 598 RBO, CS 598 SC, CS 598 SMC, CS 598 SPH) - Research Methods in HCI
+
+Kevin Chenchuan Chang:
+CS 411 - Database Systems
+CS 412 CSP - Introduction to Data Mining
+CS 511 - Advanced Data Management
+CS 598 KCC (CS 598 KCO) - Listening to Social Universe
+
+Chandra Sekhar Chekuri:
+CS 374 AL1 (CS 374 AYA, CS 374 AYB, CS 374 AYC, CS 374 AYD, CS 374 AYE, CS 374 AYF, CS 374 AYG, CS 374 AYH, CS 374 AYJ, CS 374 AYK, CS 374 ADA, CS 374 ADB, CS 374 ADC, CS 374 ADD, CS 374 ADE, CS 374 ADF, CS 374 ADG, CS 374 ADH, CS 374 ADJ, CS 374 ADK, CS 374 BL1, CS 374 BYA, CS 374 BYB, CS 374 BYC, ECE 374 ADA, ECE 374 ADB, ECE 374 ADC, ECE 374 ADD, ECE 374 ADE, ECE 374 ADF, ECE 374 ADG, ECE 374 ADH, ECE 374 ADJ, ECE 374 ADK, ECE 374 AL1, ECE 374 AYA, ECE 374 AYB, ECE 374 AYC, ECE 374 AYD, ECE 374 AYE, ECE 374 AYF, ECE 374 AYG, ECE 374 AYH, ECE 374 AYJ, ECE 374 AYK, ECE 374 BL1, ECE 374 BYA, ECE 374 BYB, ECE 374 BYC) - Intro to Algs & Models of Comp
+CS 473 (CSE 414, MATH 473) - Algorithms
+CS 498 ABD (CS 498 ABG, CS 498 ABU) - Algorithms for Big Data
+CS 583 - Approximation Algorithms
+CS 598 CCI - Topics in Graph Algorithms
+IE 519 (CS 586) - Combinatorial Optimization
+
+Girish  Chowdhary:
+ABE 424 (ABE 426) - Prnpl Mobile Robotics
+ABE 498 AB1 (ABE 498 AB2, ABE 498 AL1) - Intro to Field Robotics
+ABE 526 - Autonomous Systems and Robots
+ABE 594 - Graduate Seminar
+ABE 598 - Autonomous Decision Making
+CS 498 GC1 (CS 498 GC2, CS 498 GC3, CS 498 GCG, CS 498 GCU) - Mobile Robotics for CS
+CS 598 GC - Robotics
+ECE 498 GR - Principles of Mobile Robotics
+TSM 594 - Graduate Seminar
+
+Camille Cobb:
+CS 464 - Topics in Societal Impacts
+CS 591 SP - Security and Privacy
+CS 597 CAC - Individual Study
+CS 598 CAC (CS 598 SMC, CS 598 SPH, CS 598 UCP) - Usable Cybersecurity & Priv
+
+Katie Cunningham:
+CS 500 - Topics in Comp Ed Rsrch
+CS 591 CED - Computers and Education
+CS 598 KMC (CS 598 KPH) - Foundations for Comp. Ed Res.
+
+Mohammed  El-Kebir:
+CS 466 - Introduction to Bioinformatics
+CS 591 BIO - Bioinformatics and Computation
+CS 598 MEB - Computational Cancer Genomics
+
+Jeff Erickson:
+CS 199 225 - Supplementary proj. for CS-225
+CS 374 ADA (CS 374 ADB, CS 374 ADC, CS 374 ADD, CS 374 ADE, CS 374 ADF, CS 374 ADG, CS 374 ADH, CS 374 ADK, CS 374 ADL, CS 374 AL1, CS 374 AL2, CS 374 AYA, CS 374 AYB, CS 374 AYC, CS 374 AYD, CS 374 AYE, CS 374 AYF, CS 374 AYG, CS 374 AYH, CS 374 AYJ, CS 374 AYK, ECE 374 ADA, ECE 374 ADB, ECE 374 ADC, ECE 374 ADD, ECE 374 ADE, ECE 374 ADF, ECE 374 ADG, ECE 374 ADH, ECE 374 ADK, ECE 374 AL1, ECE 374 AL2, ECE 374 ALZ, ECE 374 AYA, ECE 374 AYB, ECE 374 AYC, ECE 374 AYD, ECE 374 AYE, ECE 374 AYF, ECE 374 AYG, ECE 374 AYH, ECE 374 AYJ, ECE 374 AYK) - Intro to Algs & Models of Comp
+CS 473 (CSE 414, MATH 473) - Algorithms
+CS 498 TC3 (CS 498 TC4, CS 498 TCU) - Computational Geometry
+CS 591 TCS - Advanced Seminar
+CS 598 JGE - Algorithms for 1D Structures
+
+Paul  Fischer:
+CS 450 (CSE 401, ECE 491, MATH 450) - Numerical Analysis
+CS 555 (CSE 510, MATH 552) - Numerical Methods for PDEs
+CS 556 (CSE 511) - Iterative & Multigrid Methods
+TAM 470 (CSE 450) - Computational Mechanics
+TAM 570 (CSE 560) - Computational Fluid Mechanics
+
+Christopher Wardlaw Fletcher:
+CS 433 (CSE 422) - Computer System Organization
+CS 563 (ECE 524) - Advanced Computer Security
+CS 591 SP - Security and Privacy
+CS 598 CLF - Secure Processor Design
+
+Michael A. Forbes:
+CS 473 (CSE 414, MATH 473) - Algorithms
+CS 579 (ECE 579) - Computational Complexity
+CS 598 MAF (CS 598 PSR) - Pseudorandomness
+
+David Forsyth:
+CS 497 - CS Team Project
+CS 498 AM1 (CS 498 AML, CS 498 AMO, CS 498 CSP, CS 498 ONL) - Applied Machine Learning
+CS 544 - Optimiz in Computer Vision
+CS 588 - Autonomous Vehicle System Eng
+CS 591 DAF - Vision Seminar
+CS 598 AIG (CS 598 MAV) - Methods for Bld Auton Vehicles
+ECE 549 (CS 543) - Computer Vision
+ECE 598 MAV - Methods for Bld Auton Vehicles
+
+Aishwarya Ganesan:
+CS 425 (ECE 428) - Distributed Systems
+CS 591 SN - Systems and Networking Seminar
+CS 598 AWG (CS 598 FTS) - Fault-Tol. Consisten Data Sys
+
+Saugata  Ghose:
+CS 233 - Computer Architecture
+CS 433 (CSE 422) - Computer System Organization
+CS 498 ME1 (CS 498 ME2) - Arch. for Mobile & Edge Comp.
+CS 534 - Adv Topics in Comp Arch
+CS 591 CAP - Arch./Compilers/Parallel Comp.
+CS 598 SG - Arch. for Mobile & Edge Comp.
+ECE 590 CAP - Arch./Compilers/Parallel Comp.
+
+Brighten Godfrey:
+CS 435 - Cloud Networking
+CS 498 CN1 (CS 498 CN2, CS 498 CNO, CS 498 MCO) - Cloud Networking
+CS 538 - Advanced Computer Networks
+
+No Courses for William D. Gropp
+
+Carl  Gunter:
+CS 463 (ECE 424) - Computer Security II
+CS 464 - Topics in Societal Impacts
+CS 498 CD - Cyber Dystopia
+CS 563 (ECE 524) - Advanced Computer Security
+CS 598 CG - Sec. & Privacy for Home IOT
+
+Indranil  Gupta:
+CS 425 (ECE 428) - Distributed Systems
+CS 525 - Advanced Distributed Systems
+CS 591 IG (CS 591 JI, CS 591 SN) - Systems and Networking Seminar
+CS 598 CC1 (CS 598 CC2) - Cloud Computing Capstone
+
+Jiawei  Han:
+CS 412 A3 (CS 412 CHI, CS 412 DSO, CS 412 ONL, CS 412 P3, CS 412 P4, CS 412 PW) - Introduction to Data Mining
+CS 498 DSG (CS 498 DSU) - Data Science & Analytics
+CS 512 - Data Mining Principles
+CS 597 JWH - Individual Study
+CS 598 JH - Text Mining: A New Paradigm
+ECE 498 DSG (ECE 498 DSU) - Data Science & Analytics
+
+Sariel  Har-Peled:
+CS 374 ADA (CS 374 ADB, CS 374 ADC, CS 374 ADD, CS 374 ADE, CS 374 ADF, CS 374 ADG, CS 374 ADH, CS 374 ADK, CS 374 ADL, CS 374 AL1, CS 374 ADJ, CS 374 AYA, CS 374 AYB, CS 374 AYC, CS 374 AYD, CS 374 AYE, CS 374 AYF, CS 374 AYG, CS 374 AYH, CS 374 AYJ, CS 374 AYK, ECE 374 ADA, ECE 374 ADB, ECE 374 ADC, ECE 374 ADD, ECE 374 ADE, ECE 374 ADF, ECE 374 ADG, ECE 374 ADH, ECE 374 ADJ, ECE 374 ADK, ECE 374 ADL, ECE 374 AL1, ECE 374 AYA, ECE 374 AYB, ECE 374 AYC, ECE 374 AYD, ECE 374 AYE, ECE 374 AYF, ECE 374 AYG, ECE 374 AYH, ECE 374 AYJ, ECE 374 AYK, ECE 374 ZJU) - Intro to Algs & Models of Comp
+CS 473 (CSE 414, MATH 473) - Algorithms
+CS 498 RA3 (CS 498 RA4, CS 498 SH3, CS 498 SHG, CS 498 SHU, CS 498 TO1, CS 498 TO2) - Topics in Algorithms
+CS 574 - Randomized Algorithms
+CS 597 SHP - Individual Study
+CS 598 SHP - fixed-parameter tractable algo
+
+John C. Hart:
+CIC 500 - CIC Traveling Scholar
+CS 416 - Data Visualization
+CS 418 (CSE 427) - Interactive Computer Graphics
+CS 498 DDV (CS 498 DV) - Data Visualiztion
+GC 498 - Graduate Domestic Study Away
+GC 499 - Graduate College Study Abroad
+GC 599 - Thesis Research
+
+Kris K. Hauser:
+CS 498 IR1 (CS 498 IR2, CS 498 IR3, CS 498 IR4, CS 498 IRU) - AI for Robot Manipulation
+CS 588 - Autonomous Vehicle System Eng
+CS 597 KKH - Individual Study
+CS 598 KKH - ADV Comp. Topics in Robotics
+ENG 572 - Professional Practicum
+ENG 573 - Capstone Project
+
+David Heath:
+CS 598 DH - Secure Computation
+ECE 407 (CS 407) - Cryptography
+
+Julia Hockenmaier:
+CS 440 (ECE 448) - Artificial Intelligence
+CS 447 - Natural Language Processing
+CS 546 - Machine Learning in NLP
+
+Derek W. Hoiem:
+CS 441 - Applied Machine Learning
+CS 445 - Computational Photography
+CS 598 DWH - 3D Vision
+
+Reyhaneh  Jabbarvand:
+CS 427 (CSE 426) - Software Engineering I
+CS 527 - Topics in Software Engineering
+CS 591 SE - Software Engineering Seminar
+CS 598 CMC (CS 598 JBR) - ML for Software Engineering
+
+Sheldon Howard Jacobson:
+IE 410 (CS 481) - Stochastic Processes & Applic
+IE 413 (CS 482) - Simulation
+
+Heng  Ji:
+CS 546 - Adv Topics in NLP
+CS 598 HJ - Knowledge-driven Nat Lang Gen
+
+Nan  Jiang:
+CS 443 - Reinforcement Learning
+CS 498 RL1 (CS 498 RL2, CS 498 RL3, CS 498 RL4) - Reinforcement Learning
+CS 542 - Stat Reinforcement Learning
+CS 598 NJ - Statistical Reinforcement
+
+Daniel  Kang:
+CS 598 MS - ML + Data Systems
+
+Karrie Karahalios:
+CS 467 - Social Visualization
+CS 567 - Social Spaces
+CS 591 JI - Just Infrastructures
+CS 598 KGK - Social Spaces on the Internet
+IS 266 (MACS 266) - Community Innovation
+MACS 265 (IS 265) -  Innovation Illinois
+
+Dakshita  Khurana:
+CS 374 AL1 (CS 374 AL2, ECE 374 AL1, ECE 374 AL2) - Intro to Algs & Models of Comp
+CS 498 AC3 (CS 498 AC4, CS 498 QC3, CS 498 QCG, CS 498 QCU) - Intro to Quantum Computing
+CS 507 - Topics in Cryptography
+CS 598 CTO (CS 598 DK) - Special Topics in Cryptography
+ECE 407 (CS 407) - Cryptography
+ECE 498 AC3 (ECE 498 AC4) - Applied Cryptography
+
+Andreas Paul Eberhard Kloeckner:
+CS 450 (CSE 401, ECE 491, MATH 450) - Numerical Analysis
+CS 555 (CSE 510, MATH 552) - Numerical Methods for PDEs
+CS 591 MH - Scientific Computing Seminar
+CS 598 APK - Special Topics
+
+Robin Hillary Kravets:
+CS 438 (ECE 438) - Communication Networks
+CS 498 WN3 (CS 498 WN4) - Wireless Network Lab
+CS 591 PH2 (CS 591 PHD, CS 591 SCH, CS 591 WN) - Wireless Networking Seminar
+ECE 439 (CS 439) - Wireless Networks
+ENG 572 - Professional Practicum
+
+Ranjitha  Kumar:
+CS 199 US - Underground Unicorn Seminar
+CS 409 - The Art of Web Programming
+CS 498 RK1 (CS 498 RK2, CS 498 RK3, CS 498 RK4) - Art and Science of Web Prog
+CS 568 - User-Centered Machine Learning
+CS 598 RK - HCI for ML
+TE 100 - Intro to ILEE
+TE 440 - Engineering City Scholars
+
+Steven M. LaValle:
+CS 598 RR - Representations in Robotics
+
+Svetlana  Lazebnik:
+CS 440 (ECE 448) - Artificial Intelligence
+CS 444 - Deep Learning for Compt Visn
+CS 498 DL3 (CS 498 DL4) - Introduction to Deep Learning
+CS 598 LAZ - Vision
+ECE 549 (CS 543) - Computer Vision
+
+Colleen M. Lewis:
+CS 105 - Intro Computing: Non-Tech
+CS 124 - Intro to Computer Science I
+CS 199 CA1 (CS 199 CA2, CS 199 CA3, CS 199 CAL, CS 199 CAO, CS 199 CL1, CS 199 CL2, CS 199 CL3, CS 199 LCA, CS 199 OCA, CS 199 STR) - CS Stars Seminar
+CS 491 EIT - Intro to Inclusive Terminology
+CS 500 - Topics in Comp Ed Rsrch
+CS 591 CED (CS 591 DEI, CS 591 PFC) - Supporting Inclusive Computing
+CS 598 CCE (CS 598 KMC, CS 598 KPH) - Foundations for Comp. Ed Res.
+ENG 591 DEI - Diversity & Inclusion Service
+
+Bo  Li:
+CS 307 - Model & Learning in Data Sci
+CS 442 - Trustworthy Machine Learning
+CS 498 LB1 (CS 498 LB2) - Trustworthy Machine Learning
+CS 562 - Adv Topics in Sec, Priv and ML
+CS 598 BL - Adversarial Machine Learning
+
+Yunzhu Li:
+CS 598 YL - Robotic Manipulation
+
+Darko  Marinov:
+CS 428 (CSE 429) - Software Engineering II
+CS 429 - Software Engineering II, ACP
+CS 491 WF - Adv Competitive Algorithm Prog
+CS 527 - Topics in Software Engineering
+CS 591 PHD (CS 591 SCH, CS 591 SE) - Software Engineering Seminar
+CS 598 DM - Software Testing for All
+
+Ruta  Mehta:
+CS 374 AL1 (CS 374 AYA, CS 374 AYB, CS 374 AYC, CS 374 AYD, CS 374 AYE, CS 374 AYF, CS 374 AYG, CS 374 AYH, CS 374 AYJ, CS 374 AYK, ECE 374 AL1, ECE 374 AYA, ECE 374 AYB, ECE 374 AYC, ECE 374 AYD, ECE 374 AYE, ECE 374 AYF, ECE 374 AYG, ECE 374 AYH, ECE 374 AYJ, ECE 374 AYK) - Intro to Algs & Models of Comp
+CS 473 (CSE 414, MATH 473) - Algorithms
+CS 580 - Topics in Algrthmc Game Theory
+CS 598 RM (CS 598 TH1) - Recent Advances in TCS
+
+Charith Mendis:
+CS 526 - Advanced Compiler Construction
+CS 591 ACT - Advanced Compiler Technology
+CS 598 CM - ML for Compilers & Architect.
+
+Jose  Meseguer:
+CS 173 - Discrete Structures
+CS 476 - Program Verification
+CS 524 - Concurrent Progrmg Languages
+CS 576 - Topics in Automated Deduction
+CS 591 JM - Advanced Seminar
+
+Sasa  Misailovic:
+CS 421 - Progrmg Languages & Compilers
+CS 426 - Compiler Construction
+CS 477 (ECE 478) - Formal Software Devel Methods
+CS 521 - Adv Topics in Pgm Systems
+CS 526 - Advanced Compiler Construction
+CS 591 ACT (CS 591 SE) - Software Engineering Seminar
+CS 598 SM - Approx & Probabilistic Comp
+
+Klara  Nahrstedt:
+CS 537 - Advanced Topics in IoT
+CS 598 KN - Advanced Multimedia Systems
+
+Luke  Olson:
+CS 199 PY1 - Python for Data
+CS 357 (MATH 357) - Numerical Methods I
+CS 450 (CSE 401, ECE 491, MATH 450) - Numerical Analysis
+CS 555 (CSE 510, MATH 552) - Numerical Methods for PDEs
+CS 556 (CSE 511) - Iterative & Multigrid Methods
+CS 591 DSE (CS 591 MH) - Scientific Computing Seminar
+CS 598 SML - Scientific Machine Learning
+
+Yongjoo  Park:
+CS 411 - Database Systems
+CS 511 - Advanced Data Management
+CS 598 YP - Special Topics
+
+Madhusudan  Parthasarathy:
+CS 173 - Discrete Structures
+CS 196 73 - Freshman Honors
+CS 199 173 - Supplementary proj for CS-173
+CS 421 - Progrmg Languages & Compilers
+CS 474 - Logic in Computer Science
+CS 477 (ECE 478) - Formal Software Devel Methods
+CS 498 MP3 (CS 498 MP4) - Logic in Computer Science
+CS 521 - Adv Topics in Pgm Systems
+CS 591 FMG - Formal Methods Seminar
+CS 598 MP - Special Topics
+
+No Courses for Hao Peng
+
+Jian  Peng:
+CS 466 - Introduction to Bioinformatics
+CS 598 JP - Machine Lrning Computation Bio
+
+Lawrence Rauchwerger:
+CS 426 - Compiler Construction
+CS 484 - Parallel Programming
+CS 498 P3 (CS 498 P4) - Parallel Programming
+CS 591 ACT (CS 591 CS, CS 591 CSO) - CS Colloquium
+CS 598 LRW (CS 598 PPM) - Parallel Programming Models
+
+No Courses for Jim Rehg
+
+No Courses for John F. Reid
+
+Ling  Ren:
+CS 461 (ECE 422) - Computer Security I
+CS 591 SP - Security and Privacy
+CS 598 CAL (CS 598 FTD, CS 598 LR) - Consensus Algorithms
+ECE 526 (CS 539) - Distributed Algorithms
+
+Talia Ringer:
+CS 421 - Progrmg Languages & Compilers
+CS 576 - Topics in Automated Deduction
+CS 598 TLR - Proof Automation
+
+Grigore  Rosu:
+CS 422 - Programming Language Design
+CS 427 (CSE 426) - Software Engineering I
+CS 522 - Programming Language Semantics
+
+Lui Sha:
+CS 424 - Real-Time Systems
+CS 431 - Embedded Systems
+CS 591 LRS - Improving your Research Skills
+CS 598 LRS (CS 598 RTS) - Real Time Systems
+
+Gagandeep Singh:
+CS 477 (ECE 478) - Formal Software Devel Methods
+CS 521 - Adv Topics in Pgm Systems
+CS 591 ACT - Advanced Compiler Technology
+CS 598 GDS - Logic and AI
+
+Makrand SINHA:
+CS 498 QC3 (CS 498 QCG, CS 498 QCU) - Intro to Quantum Computing
+CS 598 MS - Special Topics
+
+Paris  Smaragdis:
+CS 448 - Audio Computing Laboratory
+CS 498 PS3 (CS 498 PS4) - Audio Computing Lab
+CS 545 - Machine Learning for Signals
+CS 598 PS (CS 598 PSE) - Mach Lrng for Signal Processng
+
+Edgar Solomonik:
+CS 450 (CSE 401, ECE 491, MATH 450) - Numerical Analysis
+CS 554 (CSE 512) - Parallel Numerical Algorithms
+CS 598 EVS - Tensor Computations
+
+Elahe Soltanaghai:
+CS 437 EKS - Topics in Internet of Things
+CS 591 WN - Wireless Networking Seminar
+CS 598 EKS - Smart cities, homes, & beyond
+
+Sarah Gimbert Sterman:
+CS 598 SMC (CS 598 SPH) - Research Methods in HCI
+
+Jimeng  Sun:
+CS 498 LHO - Deep Learning for Healthcare
+CS 598 DLH (CS 598 LHO) - Deep Learning For Healthcare
+
+Hari  Sundaram:
+ADV 490 - Computational Advertising
+CS 412 CSP (CS 412 ONL, CS 412 P3, CS 412 P4) - Introduction to Data Mining
+CS 469 (ADV 462) - Comp Adv Infrastructure
+CS 470 - Social and Information Network
+CS 498 CA3 (CS 498 CA4, CS 498 CAU, CS 498 HS1, CS 498 HS2, CS 498 HS3, CS 498 HS4) - Computational Advertising
+CS 514 - Adv Topics in Network Science
+CS 597 HS - Individual Study
+CS 598 HS (CS 598 HSO) - Adv Social&Information Network
+
+Ruby Tahboub:
+CS 101 - Intro Computing: Engrg & Sci
+CS 412 P3 (CS 412 PG, CS 412 PU) - Introduction to Data Mining
+
+Matus Jan Telgarsky:
+CS 446 (ECE 449) - Machine Learning
+CS 540 - Deep Learning Theory
+CS 598 DLT (CS 598 TEL) - Machine Learning Theory
+
+Hanghang  Tong:
+CS 412 CSP (CS 412 ONL, CS 412 P3, CS 412 P4) - Introduction to Data Mining
+CS 512 - Data Mining Principles
+CS 514 - Adv Topics in Network Science
+CS 598 HT - Network Mining
+
+Josep  Torrellas:
+CS 433 (CSE 422) - Computer System Organization
+CS 533 (CSE 522) - Parallel Computer Architecture
+CS 534 - Adv Topics in Comp Arch
+CS 598 JT (CS 598 JTE) - Energy-Efficient Comp Architec
+
+Luther Tychonievich:
+CS 415 - Game Development
+CS 418 (CSE 427) - Interactive Computer Graphics
+
+Deepak Vasisht:
+CS 438 (ECE 438) - Communication Networks
+CS 498 DV1 (CS 498 DV2) - ML in Wireless Networks
+CS 591 WN - Wireless Networking Seminar
+CS 598 WSI - Wireless Sys for The IOT
+
+Mahesh  Viswanathan:
+CS 173 - Discrete Structures
+CS 196 73 - Freshman Honors
+CS 199 FRD - Teaching Techniques Seminar
+CS 240 - Intro to Computer Systems
+CS 296 73 - Honors Course
+CS 307 - Model & Learning in Data Sci
+CS 374 BL1 (CS 374 BYA, CS 374 BYB, CS 374 BYC, CS 374 BYD, CS 374 BYE, CS 374 BYF, CS 374 BYG, CS 374 BYH, ECE 374 BL2, ECE 374 BYA, ECE 374 BYB, ECE 374 BYC, ECE 374 BYD, ECE 374 BYE, ECE 374 BYF, ECE 374 BYG, ECE 374 BYH) - Intro to Algs & Models of Comp
+CS 441 - Applied Machine Learning
+CS 474 - Logic in Computer Science
+CS 475 (MATH 475) - Formal Models of Computation
+CS 498 MV3 (CS 498 MV4) - Logic
+CS 591 FM - Formal Methods Seminar
+
+Gang  Wang:
+CS 463 (ECE 424) - Computer Security II
+CS 562 - Adv. Trustworthy Mach. Lrng.
+CS 598 GW - ML for Sys, Netwrks & Security
+
+Shenlong Wang:
+CS 446 (ECE 449) - Machine Learning
+CS 498 MP3 (CS 498 MPG, CS 498 MPU, CS 498 SW3, CS 498 SW4, CS 498 SWU) - Intro to Machine Perception
+CS 598 SHW - Adv. Top. in Robot Perception
+
+Yuxiong  Wang:
+CS 445 - Computational Photography
+CS 598 ACV (CS 598 LTL) - Learning to learn
+
+Tandy  Warnow:
+BIOE 540 (CS 581) - Algorithmic Genomic Biology
+CS 173 - Discrete Structures
+CS 196 73 - Freshman Honors
+CS 591 BIO - Bioinformatics and Computation
+
+Tianyin  Xu:
+CS 423 (CSE 423) - Operating Systems Design
+CS 523 - Advanced Operating Systems
+CS 591 DS (CS 591 IG, CS 591 SE, CS 591 SN) - Systems and Networking Seminar
+CS 598 TXU (CS 598 XU) - Reliability of Cloud-Scale Sys
+
+Wenzhen Yuan:
+CS 498 GS3 (CS 498 GSG, CS 498 GSU) - Designing Op-based Sensors
+
+ChengXiang Zhai:
+CS 410 - Text Information Systems
+CS 510 - Advanced Information Retrieval
+CS 591 TXT - Text Mining Seminar
+CS 598 DM (CS 598 DM1, CS 598 DM2) - Data Mining Capstone
+
+Lingming  Zhang:
+CS 427 (CSE 426) - Software Engineering I
+CS 527 - Topics in Software Engineering
+CS 591 SE - Software Engineering Seminar
+CS 598 AST (CS 598 LMZ) - ADV Software Test. & Debugging
+
+Han Zhao:
+CS 442 - Trustworthy Machine Learning
+CS 498 ML3 (CS 498 MLG, CS 498 MLU) - Trustworthy ML
+CS 598 HAZ (CS 598 HOF) - Transfer Learning
+
+Craig Zilles:
+CS 105 - Intro Computing: Non-Tech
+CS 126 - Software Design Studio
+CS 225 - Data Structures
+CS 233 - Computer Architecture
+CS 296 33 - Honors Course
+CS 498 OL3 (CS 498 OL4) - Intro to Online Learning Sys
+CS 500 - Topics in Comp Ed Rsrch
+CS 591 CAE (CS 591 CED, CS 591 CZ) - Advanced Seminar
+ENG 498 OL3 (ENG 498 OL4) - Intro to Online Learning Sys
+

@@ -1,0 +1,93 @@
+Tarek  Abdelzaher
+Sarita V. Adve
+Vikram Adve
+Ram Alagappan
+Nancy M. Amato
+Brian P. Bailey
+Arindam  Banerjee
+Adam Bates
+Matthew Caesar
+Timothy Moon-Yew Chan
+Eshwar  Chandrasekharan
+Kevin Chenchuan Chang
+Chandra Sekhar Chekuri
+Girish  Chowdhary
+Camille Cobb
+Katie Cunningham
+Mohammed  El-Kebir
+Jeff Erickson
+Paul  Fischer
+Christopher Wardlaw Fletcher
+Michael A. Forbes
+David Forsyth
+Aishwarya Ganesan
+Saugata  Ghose
+Brighten Godfrey
+William D. Gropp
+Carl  Gunter
+Indranil  Gupta
+Jiawei  Han
+Sariel  Har-Peled
+John C. Hart
+Kris K. Hauser
+David Heath
+Julia Hockenmaier
+Derek W. Hoiem
+Reyhaneh  Jabbarvand
+Sheldon Howard Jacobson
+Heng  Ji
+Nan  Jiang
+Daniel  Kang
+Karrie Karahalios
+Dakshita  Khurana
+Andreas Paul Eberhard Kloeckner
+Robin Hillary Kravets
+Ranjitha  Kumar
+Steven M. LaValle
+Svetlana  Lazebnik
+Colleen M. Lewis
+Bo  Li
+Yunzhu Li
+Darko  Marinov
+Ruta  Mehta
+Charith Mendis
+Jose  Meseguer
+Sasa  Misailovic
+Klara  Nahrstedt
+Luke  Olson
+Yongjoo  Park
+Madhusudan  Parthasarathy
+Hao Peng
+Jian  Peng
+Lawrence Rauchwerger
+Jim Rehg
+John F. Reid
+Ling  Ren
+Talia Ringer
+Grigore  Rosu
+Lui Sha
+Gagandeep Singh
+Makrand SINHA
+Paris  Smaragdis
+Edgar Solomonik
+Elahe Soltanaghai
+Sarah Gimbert Sterman
+Jimeng  Sun
+Hari  Sundaram
+Ruby Tahboub
+Matus Jan Telgarsky
+Hanghang  Tong
+Josep  Torrellas
+Luther Tychonievich
+Deepak Vasisht
+Mahesh  Viswanathan
+Gang  Wang
+Shenlong Wang
+Yuxiong  Wang
+Tandy  Warnow
+Tianyin  Xu
+Wenzhen Yuan
+ChengXiang Zhai
+Lingming  Zhang
+Han Zhao
+Craig Zilles

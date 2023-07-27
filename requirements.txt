@@ -1,0 +1,4 @@
+beautifulsoup4 # depending on your env
+bs4
+requests
+urllib
